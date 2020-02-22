@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Maintenance
 nav_order: 5
 parent: 3D Printer
 ---

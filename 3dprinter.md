@@ -1,6 +1,5 @@
 ---
 layout: default
-title: 3D Printer
 nav_order: 2
 has_children: true
 ---

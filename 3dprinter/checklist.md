@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Checklist for printing
 nav_order: 3
 parent: 3D Printer
 ---
 
-# Checklist
+# Checklist for printing
 
 * Cleanliness
   * Print Chamber

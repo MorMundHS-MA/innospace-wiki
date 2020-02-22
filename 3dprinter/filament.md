@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Filament
 nav_order: 4
 parent: 3D Printer
 ---

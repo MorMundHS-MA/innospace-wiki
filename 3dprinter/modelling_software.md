@@ -1,7 +1,6 @@
 ---
 layout: default
-title: 3D Modeling Software
-nav_order: 2
+nav_order: 1
 parent: 3D Printer
 ---
 

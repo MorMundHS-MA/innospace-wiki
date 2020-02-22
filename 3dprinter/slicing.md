@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Slicing
-nav_order: 3
+nav_order: 2
 parent: 3D Printer
 ---
 
