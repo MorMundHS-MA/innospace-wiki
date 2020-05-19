@@ -8,7 +8,7 @@ parent: Maintaining the Wiki
 
 ## 1. Finding the page
 
-To update an existing page we first need to find the file representing it. At [repo link] you can view these files in an online explorer. The filenames should be roughly the page's title, sometimes shortened, followed by the `.md` extension. Sub-pages can be found in a folder named like the top-level page. For example the checklist for 3D-Printing can be found in `pages/3dprinter/checklist.md`
+To update an existing page we first need to find the file representing it. At [repo link] you can view these files in an online explorer. The filenames should be roughly the page's title, sometimes shortened, followed by the `.md` extension. Sub-pages can be found in a folder named like the top-level page. For example the checklist for 3D-Printing can be found in `3dprinter/checklist.md`
 
 ![Github files view](./images/github.png)
 
